@@ -1,6 +1,6 @@
 # Jour 3
 
-## Lien vers la <a href="https://annecemech.hthub.io/html-css-part-3/" target="_blank">démo</a>
+## Lien vers la <a href="https://annecemech.github.io/html-css-part-3/" target="_blank">démo</a>
 
 ## Lien vers les <a href="https://docs.google.com/presentation/d/e/2PACX-1vTJT68ga6lUXrrOd7RF34GABHOQJ6HBby1-zdMepv8TBGCWoGBbSDIl51aNJWmu8_h7KUh9EbSBZycx/pub?start=false&loop=false&delayms=3000" target="_blank">slides du cours</a>
 
