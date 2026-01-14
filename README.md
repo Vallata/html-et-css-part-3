@@ -2,7 +2,7 @@
 
 ## Lien vers le <a href="https://annecemech.github.io/html-css-part-3/" target="_blank">site à reproduire</a>
 
-## Lien vers les <a href="https://github.com/Vallata/html-et-css-part-3/blob/main/P3%20-%20Cours%20De%CC%81veloppement%20front%20end%20-%202026%20-%20HTMLCSS%20Part%203.pptx.pdf" target="_blank">slides du cours</a>
+## Lien vers les <a href="https://www.canva.com/design/DAG9i2F24tU/sr_Ndux6Cxnh5fwgkpTlHA/view?utm_content=DAG9i2F24tU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e3f7653c7" target="_blank">slides du cours</a>
 
 ## Initiation à Flexbox
 
