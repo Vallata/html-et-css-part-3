@@ -208,11 +208,13 @@ Rangeons notre code pour que le tout soit plus maintenable.
 
 Cette ligne de code permet à notre fichier de style "général" d’avoir connaissance de notre fichier de style "spécial", classé dans le dossier composant. 
 
-## <a href="https://flexboxfroggy.com/#fr" target="_blank">Jeu - Flexbox Froggy</a>
+
+## Ressources complémentaires 
+### <a href="https://flexboxfroggy.com/#fr" target="_blank">Jeu - Flexbox Froggy</a>
 
 <a href="https://flexboxfroggy.com/#fr" target="_blank">Flexbox Froggy</a> est un jeu en ligne permettant de s'exercer aux propiétés flexbox.
 
-## Créér son propre logo
+### Créér son propre logo
 
 Ils existent plusieurs sites qui permettent de générer un logo :
 
